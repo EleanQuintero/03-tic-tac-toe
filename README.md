@@ -1,8 +1,3 @@
-# React + Vite
+Juego de tic-tac-toe hecho con react & vite, a manera de proyecto practico con midudev 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+la aplicacion consiste en generar un array con distintas posiciones dentro del componente y que este vaya provisto de otro array con las combinaciones de posicionees ganadoras en la aplicacion. 
